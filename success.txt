@@ -308,3 +308,4 @@ http://142.171.224.118:1188
 http://74.48.163.250:1188
 https://e.nxnow.top
 http://23.172.40.177:8000
+https://deeplx.zeabur.app
